@@ -1,5 +1,8 @@
 # Salary Prediction using Simple Linear Regression
 
+<img width="1400" height="933" alt="regression" src="https://github.com/user-attachments/assets/d2e783b9-42a1-45d6-8839-d3341449df93" />
+
+
 ## Project Overview
 The project applies **Simple Linear Regression** to model and predict salaries based on years of experience.
 
